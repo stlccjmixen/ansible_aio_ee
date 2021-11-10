@@ -23,7 +23,7 @@ matrix-client
 infoblox-client
 nc-dnsapi
 pypsexec
-
+PyVmomi
 # In Testing
 
 
